@@ -2,7 +2,7 @@
 
 My name is Summer and I am a current graduate student at the [Computational Analysis and Public Policy](https://capp.uchicago.edu/) program at the University of Chicago.
 
-I am finishing my Master of Science in June 2024. Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics at the University of Chicago.
+I am finishing my Master of Science in June 2024. Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics at the University of Chicago in June 2023.
 
 <!--
 **sumslong/sumslong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
