@@ -28,7 +28,7 @@ I have a broad depth of software, data, and statistics coursework at the Univers
 | Statistical Methods and Applications  | Data Visualization for Policy Analysis  | Computer Science with Applications I |
 | Applied Regression Analysis  | Big Data Platforms  | Computer Science with Applications II |
 | Statistical Theory and Methods I | Databases for Public Policy | Computer Science with Applications III |
-| Linear Models and Experimental Design | Data Science in Healthcare | Topics in Software Engineering |
+| Linear Models and Experimental Design | Data Science in Healthcare | Topics in Software Engineering (Microservices) |
 | Analysis of Categorical Data | Big Data and Development | Software Engineering for Civic Tech |
 | Applications of Hierarchical Linear Models | Machine Learning for Public Policy | |
 | Numerical Linear Algebra | Advanced Machine Learning for Public Policy | |
