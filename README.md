@@ -4,6 +4,19 @@ My name is Summer and I am a current graduate student at the [Computational Anal
 
 I am finishing my Master of Science in June 2024. Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics at the University of Chicago in June 2023.
 
+## Projects
+
+- 🏙️ IN PROGRESS - Resources for New Arrivals
+- 🛒 University of Chicago Buy & Sell
+- 💘 Matching Between Humans & Artificial Generation of the ‘Perfect Match’
+- 📚 Accessibility and Usage of Libraries in Chicago
+- 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’
+- 📝 Citation Network Analysis 
+- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care
+- 👩‍⚕️ Medicare Opportunities
+- 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations
+
+
 <!--
 **sumslong/sumslong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
