@@ -32,10 +32,4 @@ I have a broad depth of software, data, and statistics coursework at the Univers
 Randomization, Distributions in Data Analytics| |
 | | Machine Learning for Public Policy | |
 | | Advanced Machine Learning for Public Policy | |
-- STAT 22000:
--
--
--
--
--
-- 
+
