@@ -6,16 +6,16 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 
 ## Projects
 
-- 🏙️ IN PROGRESS - Resources for New Arrivals
-- 📊 Visualizations to Word: During my internship, I created a executable for staff at the Bureau of Labor Statistics to automate the generation of 100+ visualizations per internal report and order them based on criteria chosen from a list designed in consultation with labor experts. This tool is still used on the team. 
-- 🛒 University of Chicago Buy & Sell: 
+- 🏙️ IN PROGRESS - Resources for New Arrivals (Spring 2024):
+- 📊 Visualizations to Word (Summer 2023): During my internship, I created a executable for staff at the Bureau of Labor Statistics to automate the generation of 100+ visualizations per internal report and order them based on criteria chosen from a list designed in consultation with labor experts. This tool is still used on the team. 
+- 🛒 University of Chicago Buy & Sell (Fall 2023): 
 - 💘 Matching Between Humans & Artificial Generation of the ‘Perfect Match’:
-- 📚 Accessibility and Usage of Libraries in Chicago: 
-- 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’:
-- 📝 Citation Network Analysis: 
-- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care:
-- 👩‍⚕️ Medicare Opportunities:
-- 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations:
+- 📚 Accessibility and Usage of Libraries in Chicago (Fall 2022): 
+- 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’ (Spring 2023):
+- 📝 Citation Network Analysis (Winter 2023): 
+- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care (Winter 2023):
+- 👩‍⚕️ Medicare Opportunities (Spring 2022):
+- 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations (Winter 2022):
 
 <!--
 **sumslong/sumslong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
