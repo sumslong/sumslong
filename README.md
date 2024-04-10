@@ -7,15 +7,15 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 ## Projects
 
 - 🏙️ IN PROGRESS - Resources for New Arrivals
-- 📊 Visualization to Word
-- 🛒 University of Chicago Buy & Sell
-- 💘 Matching Between Humans & Artificial Generation of the ‘Perfect Match’
-- 📚 Accessibility and Usage of Libraries in Chicago
-- 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’
-- 📝 Citation Network Analysis 
-- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care
-- 👩‍⚕️ Medicare Opportunities
-- 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations
+- 📊 Visualizations to Word: During my internship, I created a executable for staff at the Bureau of Labor Statistics to automate the generation of 100+ visualizations per internal report and order them based on criteria chosen from a list designed in consultation with labor experts. This tool is still used on the team. 
+- 🛒 University of Chicago Buy & Sell: 
+- 💘 Matching Between Humans & Artificial Generation of the ‘Perfect Match’:
+- 📚 Accessibility and Usage of Libraries in Chicago: 
+- 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’:
+- 📝 Citation Network Analysis: 
+- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care:
+- 👩‍⚕️ Medicare Opportunities:
+- 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations:
 
 <!--
 **sumslong/sumslong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
