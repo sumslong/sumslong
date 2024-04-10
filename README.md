@@ -7,6 +7,7 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 ## Projects
 
 - 🏙️ IN PROGRESS - Resources for New Arrivals
+- 📊 Visualization to Word
 - 🛒 University of Chicago Buy & Sell
 - 💘 Matching Between Humans & Artificial Generation of the ‘Perfect Match’
 - 📚 Accessibility and Usage of Libraries in Chicago
@@ -15,7 +16,6 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 - 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care
 - 👩‍⚕️ Medicare Opportunities
 - 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations
-
 
 <!--
 **sumslong/sumslong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
