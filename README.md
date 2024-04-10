@@ -13,7 +13,7 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 - 📚 Accessibility and Usage of Libraries in Chicago (Fall 2022): 
 - 🤔 Sentiment Analysis of Tweets containing ‘Obamacare’ of ‘Affordable Care Act’ (Spring 2023):
 - 📝 Citation Network Analysis (Winter 2023): 
-- 👨‍👩‍👦 Optimizing Information to Improve Graduation Rates for Youth in Foster Care (Winter 2023):
+- 👨‍👩‍👦 [Optimizing Information to Improve Graduation Rates for Youth in Foster Care](https://sumslong.github.io/hsgrad/project.html) (Winter 2023): As a part of my undergraduate honors thesis, I created an interactive webpage with data from the National Youth in Transition Database, performing 
 - 👩‍⚕️ Medicare Opportunities (Spring 2022):
 - 🫀 Heart Disease Risk Prediction, Mapping, and Recommendations (Winter 2022):
 
