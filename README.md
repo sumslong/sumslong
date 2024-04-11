@@ -17,6 +17,9 @@ I am finishing my Master of Science in June 2024. Prior to my master's, I comple
 - 👩‍⚕️ [Medicare Opportunities](https://github.com/sumslong/big-data) (Spring 2022): For CMSC 12300 - Computer Science with Applications III, I worked on a team to create MapReduce programs that considered misalignment in our dataset due to non-comma separation. Then, we explored the number of services provided on average, what states had service deserts, and a variety of attributes about providers who accept Medicare. We took log-transformations when appropriate of our findings to enhance our analysis.
 - 🫀 [Heart Disease Risk Prediction, Mapping, and Recommendations](https://github.com/sumslong/cvd-project) (Winter 2022): For CMSC 12200 - Computer Science with Applications II, I worked on a team to create an application that would assess one's individual risk for heart disease. Using a 70,000 patient dataset, we trained a random forest model to predict risk of heart disease. Then, we scraped PubMed, Google Scholar, WebMD, and Mayo Clinic for relevant articles according to user-input terms. Using a user-input literacy level, we then computed a readability index to order the presentation of articles to a user.
 
+## Resume
+- You can view my technical resume [here](https://github.com/sumslong/sumslong/blob/main/resume/Long_Resume.pdf).
+
 ## Technical Coursework
 
 I have a broad depth of software, data, and statistics coursework at the University of Chicago which has prepared me for a variety of tasks. 
