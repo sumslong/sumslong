@@ -1,12 +1,12 @@
 ### Welcome to my GitHub ✨ 
 
-My name is Summer and I am a current graduate student at the [Computational Analysis and Public Policy](https://capp.uchicago.edu/) program at the University of Chicago.
+My name is Summer and I am a Data Analyst in Rx Pricing & Underwriting at Walgreens!.
 
-I am finishing my Master of Science in June 2024. Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics at the University of Chicago in June 2023. You can view my technical resume [here](https://github.com/sumslong/sumslong/blob/main/resume/Long_Resume.pdf).
+I am finished my Master of Science in June 2024. Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics at the University of Chicago in June 2023. You can view my (previous) resume [here](https://github.com/sumslong/sumslong/blob/main/resume/Long_Resume.pdf).
 
 ## Projects
 
-- 🏙️ IN PROGRESS - Resources for New Arrivals (Spring 2024): A project in progress for CAPP 30235 - Software Engineering for Civic Tech.
+- 🏙️ IN PROGRESS - Resources for New Arrivals (Spring 2024): A project in progress. Previously started as a project for CAPP 30235 - Software Engineering for Civic Tech, it was passed onto interns from my graduate program to finish.
 - 📊 [Visualizations to Word](https://github.com/sumslong/viz-to-word) (Summer 2023): During my internship at the Bureau of Labor Statistics, I created a executable for staff to automate the generation of 100+ visualizations per internal report and order them based on criteria chosen from a list designed in consultation with labor experts. This tool is still used on the team. 
 - 🛒 [University of Chicago Buy & Sell](https://github.com/nikhilr5-uchi/MPCS51205_FinalProject) (Fall 2023): For MPCS 51205 - Topics in Software Engineering, I worked on a team to create an auction website for university students and faculty members. In this project, we deployed Docker containers for RabbitMQ for RPC to add items as well as created a user interface. This application has user authentication implemented.
 - 💘 [Matching Between Humans & Artificial Generation of the ‘Perfect Match’](https://github.com/rok12003/see-you-l8r-allidater): For CAPP 30255 - Advanced Machine Learning for Public Policy, I worked on a team to utilize data from users of OKCupid to match existing users together and fine-tune a GPT-2 mdoel to generate an ideal match based on user-submitted text. To prevent abuse of artificial intelligence, we deployed Detoxify to screen user-submitted text for generation as well as monitoring generation from our fine-tuned GPT-2 model. This application was built in Flask and demonstrated in our final presentation, in which our professor utilized the app.
