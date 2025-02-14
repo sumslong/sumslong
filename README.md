@@ -1,6 +1,6 @@
 ### Welcome to my GitHub ✨ 
 
-My name is Summer and I am a Data Analyst in Rx Pricing & Underwriting at Walgreens!
+My name is Summer and I am a Data Analyst in Rx Pricing & Underwriting at Walgreens! I currently work on Fee-for-Service Medicaid and Managed Medicaid.
 
 I am a double alum of the University of Chicago. I finished my Master of Science in June 2024 in Computational Analysis and Public Policy (CAPP). Prior to my master's, I completed my Bachelor of Arts in Public Policy with a Specialization in Statistics in June 2023. You can view my (previous) resume [here](https://github.com/sumslong/sumslong/blob/main/resume/Long_Resume.pdf).
 
